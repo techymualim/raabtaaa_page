@@ -35,12 +35,14 @@ export default function DifferPage() {
         <p>Complete the sign-up process to be eligible for hundreds of jobs.
 
 </p>
+<a  href="https://www.raabtaa.co" rel="noreferrer">
 <div className="cont_btn">
     <div className="icn">
       <Person_add/>
     </div>
     <p>SIGN UP</p>
 </div>
+</a>
       </div>
       </div>
     <div className="box_mid_w2">

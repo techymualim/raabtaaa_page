@@ -26,12 +26,14 @@ export default function HomePage() {
         </h3>
         <p>Flexible and reliable workforce that meets your hiring requirements in 24 hours.
 </p>
+<a  href="https://www.raabtaa.co" rel="noreferrer">
 <div className="cont_btn">
     <div className="icn">
       <Msg_icon/>
     </div>
-    <p>CONTACT US</p>
+   <p>CONTACT US</p>
 </div>
+</a>
       </div>
       </div>
     </div>
@@ -117,7 +119,8 @@ export default function HomePage() {
         <br/>
         <input type="text" id="question"/>
         </div>
-        <input type="submit" id="submit_btn"/>
+        <a  href="https://www.raabtaa.co" rel="noreferrer"> <input type="submit" id="submit_btn"/></a>
+       
         
       </form>
      
