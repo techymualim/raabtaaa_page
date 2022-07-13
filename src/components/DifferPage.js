@@ -141,6 +141,7 @@ export default function DifferPage() {
             </div>
           </div>
         </div>
+        
         <FAQ/>
       </div>
    

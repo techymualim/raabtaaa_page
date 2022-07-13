@@ -297,7 +297,9 @@ text-align: center;
 color: #19944F;
 }
 
-
+.faq-body{
+    width: 1200px;
+}
 .faq-body .faq-row  .row-title  {    
     font-family: 'Roboto';
     font-style: normal;

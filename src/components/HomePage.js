@@ -26,7 +26,7 @@ export default function HomePage() {
         </h3>
         <p>Flexible and reliable workforce that meets your hiring requirements in 24 hours.
 </p>
-<a  href="https://www.raabtaa.co" rel="noreferrer">
+<a  href="#contact" rel="noreferrer">
 <div className="cont_btn">
     <div className="icn">
       <Msg_icon/>
@@ -56,8 +56,8 @@ export default function HomePage() {
           <Box2Icon/>
         </div>
         <div className="text">
-          <h2>PRE-VETTED WORKERS</h2>
-          <p>Pool of verified workers and vetted skills ensuring high quality of work.</p>
+          <h2>ALL-IN-ONE</h2>
+          <p>One stop platform for on-boarding and digital verification of workers.</p>
         </div>
       </div>
       <div className="box">
@@ -65,8 +65,8 @@ export default function HomePage() {
           <Box3Icon/>
         </div>
         <div className="text">
-          <h2>PRE-VETTED WORKERS</h2>
-          <p>Pool of verified workers and vetted skills ensuring high quality of work.</p>
+          <h2>QUICK</h2>
+          <p>Fulfilling your hiring requirements within 24 hours.</p>
         </div>
       </div>
       <div className="box">
@@ -74,15 +74,15 @@ export default function HomePage() {
           <Box4Icon/>
         </div>
         <div className="text">
-          <h2>PRE-VETTED WORKERS</h2>
-          <p>Pool of verified workers and vetted skills ensuring high quality of work.</p>
+          <h2>COMPLIANT</h2>
+          <p>Conduct background verification, KYC, and insurance on the platform.</p>
         </div>
       </div>
       
     </div>
     </div>
     <Verticals text={"Our Focused Verticals"} />
-    <div className="box_one4">
+    <div id="contact" className="box_one4">
     <div className="heading">
         Get In Touch With Us
       </div>
