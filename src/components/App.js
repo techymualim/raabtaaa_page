@@ -2,7 +2,7 @@
 import { useState } from 'react';
 
 
-import "../styles.css";
+import "../styles/styles.css";
 import Header from "./Header.js";
 import HomePage from "./HomePage.js";
 import DifferPage from "./DifferPage.js";

@@ -1,6 +1,6 @@
-import "../styles.css";
-import logistics_img from '../logistics_icn.svg';
-import warehouse_img from '../warehouse_icn.svg';
+import "../styles/styles.css";
+import logistics_img from '../assets/logistics_icn.svg';
+import warehouse_img from '../assets/warehouse_icn.svg';
 
 export default function Verticals({text}){
     return(

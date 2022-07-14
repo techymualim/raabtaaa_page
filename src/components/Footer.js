@@ -1,11 +1,11 @@
-import "../styles.css";
+import "../styles/styles.css";
 
-import Emp1 from '../emp1.svg';
-import Emp2 from '../emp2.svg';
-import Emp3 from '../emp3.svg';
-import Emp4 from '../emp4.svg';
-import Emp5 from '../emp5.svg';
-import raabtaa_white_logo from '../white_logo.svg';
+import Emp1 from '../assets/emp1.svg';
+import Emp2 from '../assets/emp2.svg';
+import Emp3 from '../assets/emp3.svg';
+import Emp4 from '../assets/emp4.svg';
+import Emp5 from '../assets/emp5.svg';
+import raabtaa_white_logo from '../assets/white_logo.svg';
 
 
 

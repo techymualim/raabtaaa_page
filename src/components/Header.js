@@ -1,5 +1,5 @@
-import "../styles.css";
-import {ReactComponent as Rb_logo} from '../rb_logo.svg';
+import "../styles/styles.css";
+import {ReactComponent as Rb_logo} from '../assets/rb_logo.svg';
 
 import React, { useState, useEffect } from 'react';
 

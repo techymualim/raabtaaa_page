@@ -1,18 +1,18 @@
-import "../worker.css";
-import Icn1 from "../fast_icn.svg";
-import Icn2 from "../whtsapp_icn.svg";
-import Icn3 from "../local_icn.svg";
+import "../styles/worker.css";
+import Icn1 from "../assets/fast_icn.svg";
+import Icn2 from "../assets/whtsapp_icn.svg";
+import Icn3 from "../assets/local_icn.svg";
 
 
-import Illus1 from "../illus_1.svg";
-import Illus2 from "../illus_2.svg";
-import Illus3 from "../illus_3.svg";
+import Illus1 from "../assets/illus_1.svg";
+import Illus2 from "../assets/illus_2.svg";
+import Illus3 from "../assets/illus_3.svg";
 
-import Pic1 from "../pic1.svg";
-import Pic2 from "../pic2.svg";
+import Pic1 from "../assets/pic1.svg";
+import Pic2 from "../assets/pic2.svg";
 
-import {ReactComponent as Art_two} from '../art2.svg';
-import {ReactComponent as Person_add} from '../person_add.svg';
+import {ReactComponent as Art_two} from '../assets/art2.svg';
+import {ReactComponent as Person_add} from '../assets/person_add.svg';
 import Verticals from "./Verticals.js";
 import FAQ from "./FAQ.js"
 

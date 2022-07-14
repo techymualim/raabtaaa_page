@@ -1,12 +1,12 @@
-import "../styles.css";
+import "../styles/styles.css";
 
 
-import {ReactComponent as Art_one} from '../art1.svg';
-import {ReactComponent as Msg_icon} from '../msg_icon.svg';
-import {ReactComponent as Box1Icon} from '../bx1_icn.svg';
-import {ReactComponent as Box2Icon} from '../bx2_icn.svg';
-import {ReactComponent as Box3Icon} from '../bx3_icn.svg';
-import {ReactComponent as Box4Icon} from '../bx4_icn.svg';
+import {ReactComponent as Art_one} from '../assets/art1.svg';
+import {ReactComponent as Msg_icon} from '../assets/msg_icon.svg';
+import {ReactComponent as Box1Icon} from '../assets/bx1_icn.svg';
+import {ReactComponent as Box2Icon} from '../assets/bx2_icn.svg';
+import {ReactComponent as Box3Icon} from '../assets/bx3_icn.svg';
+import {ReactComponent as Box4Icon} from '../assets/bx4_icn.svg';
 
 import Verticals from "./Verticals.js";
 
